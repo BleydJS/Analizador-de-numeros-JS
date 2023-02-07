@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(95, 95, 95);
+    color: white;
+    
+}
+
+header{
+    text-align: center;
+
+}
+section{
+  
+background-image: -moz-linear-gradient( 88deg, rgb(172,203,238) 0%, rgb(231,240,253) 100%);
+background-image: -webkit-linear-gradient( 88deg, rgb(172,203,238) 0%, rgb(231,240,253) 100%);
+background-image: -ms-linear-gradient( 88deg, rgb(172,203,238) 0%, rgb(231,240,253) 100%);
+
+width: 450px;
+text-align: center;
+border-radius: 10px;
+padding: 10px;
+margin: auto;
+color: black;
+font: bold 15px arial;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.116);
+}
+
+
+footer{
+    text-align: center;
+    font-style: italic;
+
+}
+
+select#flista {
+    text-align: left;
+    margin-top: 20px;
+    margin-right: 280px;
+    width: 150px;
+}
+
+div#res{
+    text-align: left;
+}
+
